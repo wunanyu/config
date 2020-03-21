@@ -1,6 +1,6 @@
 note:
   data: 10
-from: dev1.9
+from: dev1.E9
 
 server:
   port: 10001
